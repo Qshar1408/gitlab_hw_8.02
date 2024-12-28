@@ -50,6 +50,10 @@
 ### В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
 
+![Jenkins_05](https://github.com/Qshar1408/gitlab_hw_8.02/blob/main/img/005.png)
+
+![Jenkins_06](https://github.com/Qshar1408/gitlab_hw_8.02/blob/main/img/006.png)
+
 ---
 
 ### Задание 3
