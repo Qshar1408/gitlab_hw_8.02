@@ -54,6 +54,8 @@
 
 ![Jenkins_06](https://github.com/Qshar1408/gitlab_hw_8.02/blob/main/img/006.png)
 
+![Jenkins_07](https://github.com/Qshar1408/gitlab_hw_8.02/blob/main/img/007.png)
+
 ---
 
 ### Задание 3
