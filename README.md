@@ -27,6 +27,10 @@
 
 ![Jenkins_02](https://github.com/Qshar1408/gitlab_hw_8.02/blob/main/img/002.png)
 
+![Jenkins_03](https://github.com/Qshar1408/gitlab_hw_8.02/blob/main/img/003.png)
+
+![Jenkins_04](https://github.com/Qshar1408/gitlab_hw_8.02/blob/main/img/004.png)
+
 ---
 
 ### Задание 2
