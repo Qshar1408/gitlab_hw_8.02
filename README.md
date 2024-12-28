@@ -79,5 +79,7 @@
 
 ![Jenkins_013](https://github.com/Qshar1408/gitlab_hw_8.02/blob/main/img/013.png)
 
+![Jenkins_014](https://github.com/Qshar1408/gitlab_hw_8.02/blob/main/img/014.png)
+
 
 
