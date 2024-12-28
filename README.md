@@ -32,13 +32,13 @@
 ### В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
 
-![Jenkins_01](https://github.com/Qshar1408/gitlab_hw_8.02/blob/main/img/001.png)
+![Jenkins_001](https://github.com/Qshar1408/gitlab_hw_8.02/blob/main/img/001.png)
 
-![Jenkins_02](https://github.com/Qshar1408/gitlab_hw_8.02/blob/main/img/002.png)
+![Jenkins_002](https://github.com/Qshar1408/gitlab_hw_8.02/blob/main/img/002.png)
 
-![Jenkins_03](https://github.com/Qshar1408/gitlab_hw_8.02/blob/main/img/003.png)
+![Jenkins_003](https://github.com/Qshar1408/gitlab_hw_8.02/blob/main/img/003.png)
 
-![Jenkins_04](https://github.com/Qshar1408/gitlab_hw_8.02/blob/main/img/004.png)
+![Jenkins_004](https://github.com/Qshar1408/gitlab_hw_8.02/blob/main/img/004.png)
 
 ---
 
@@ -50,11 +50,11 @@
 ### В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
 
-![Jenkins_05](https://github.com/Qshar1408/gitlab_hw_8.02/blob/main/img/005.png)
+![Jenkins_005](https://github.com/Qshar1408/gitlab_hw_8.02/blob/main/img/005.png)
 
-![Jenkins_06](https://github.com/Qshar1408/gitlab_hw_8.02/blob/main/img/006.png)
+![Jenkins_006](https://github.com/Qshar1408/gitlab_hw_8.02/blob/main/img/006.png)
 
-![Jenkins_07](https://github.com/Qshar1408/gitlab_hw_8.02/blob/main/img/007.png)
+![Jenkins_007](https://github.com/Qshar1408/gitlab_hw_8.02/blob/main/img/007.png)
 
 ---
 
@@ -67,26 +67,17 @@
   4. Загрузите файл в репозиторий с помощью jenkins.
 ### В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
+![Jenkins_008](https://github.com/Qshar1408/gitlab_hw_8.02/blob/main/img/008.png)
+
+![Jenkins_009](https://github.com/Qshar1408/gitlab_hw_8.02/blob/main/img/009.png)
+
+![Jenkins_010](https://github.com/Qshar1408/gitlab_hw_8.02/blob/main/img/010.png)
+
+![Jenkins_011](https://github.com/Qshar1408/gitlab_hw_8.02/blob/main/img/011.png)
+
+![Jenkins_012](https://github.com/Qshar1408/gitlab_hw_8.02/blob/main/img/012.png)
+
+![Jenkins_013](https://github.com/Qshar1408/gitlab_hw_8.02/blob/main/img/013.png)
 
 
-### Задание 4
 
-`Приведите ответ в свободной форме........`
-
-1. `Заполните здесь этапы выполнения, если требуется ....`
-2. `Заполните здесь этапы выполнения, если требуется ....`
-3. `Заполните здесь этапы выполнения, если требуется ....`
-4. `Заполните здесь этапы выполнения, если требуется ....`
-5. `Заполните здесь этапы выполнения, если требуется ....`
-6. 
-
-```
-Поле для вставки кода...
-....
-....
-....
-....
-```
-
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота](ссылка на скриншот)`
